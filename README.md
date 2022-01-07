@@ -1,8 +1,8 @@
 # Virtual-Assistsant-python-
 It is a Simple Voice Assistant , it is use to assist you in some of the desktop work to make them handless.
 ## Fetaures:
-1.Searching anything on google 
-2.opening any desktop apps
+# 1.Searching anything on google 
+# 2.opening any desktop apps
 3.email Automation
 4.Whatsapp Automation 
 5.Google Automation
